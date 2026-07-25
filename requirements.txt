@@ -1,0 +1,19 @@
+﻿streamlit>=1.29.0
+pandas>=2.3.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+plotly>=5.20.0
+matplotlib>=3.8.0
+folium>=0.15.0
+streamlit-folium>=0.16.0
+sqlalchemy>=2.0.25
+psycopg2-binary>=2.9.8
+python-dotenv==1.0.0
+requests>=2.32.0
+joblib>=1.4.0
+
+# Dépendances ajoutées pour MongoDB et l'authentification
+pymongo>=4.5.0
+dnspython>=2.4.0      # Nécessaire pour les chaînes de connexion mongodb+srv://
+bcrypt>=4.0.0
+streamlit-option-menu>=0.3.0

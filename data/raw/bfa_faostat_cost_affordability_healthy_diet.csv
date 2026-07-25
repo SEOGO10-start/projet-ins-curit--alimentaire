@@ -1,0 +1,57 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Release Code,Release,Unit,Value,Flag
+BFA,2017-01-01,2017-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2017,2017,7S2025,July 2025 (SOFI report),LCU/cap/d,534.57,E
+BFA,2018-01-01,2018-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2018,2018,7S2025,July 2025 (SOFI report),LCU/cap/d,552.49,E
+BFA,2019-01-01,2019-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2019,2019,7S2025,July 2025 (SOFI report),LCU/cap/d,517.29,E
+BFA,2020-01-01,2020-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2020,2020,7S2025,July 2025 (SOFI report),LCU/cap/d,536.25,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,572.49,E
+BFA,2022-01-01,2022-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2022,2022,7S2025,July 2025 (SOFI report),LCU/cap/d,708.83,E
+BFA,2023-01-01,2023-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2023,2023,7S2025,July 2025 (SOFI report),LCU/cap/d,700.49,E
+BFA,2024-01-01,2024-12-31,233,'854,Burkina Faso,70041,"Cost of a healthy diet (CoHD), LCU per person per day",6205,Value,2024,2024,7S2025,July 2025 (SOFI report),LCU/cap/d,743.72,E
+BFA,2017-01-01,2017-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2017,2017,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,2.77,E
+BFA,2018-01-01,2018-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2018,2018,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,2.82,E
+BFA,2019-01-01,2019-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2019,2019,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,2.72,E
+BFA,2020-01-01,2020-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2020,2020,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,2.8,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,2.97,E
+BFA,2022-01-01,2022-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2022,2022,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,3.48,E
+BFA,2023-01-01,2023-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2023,2023,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,3.55,E
+BFA,2024-01-01,2024-12-31,233,'854,Burkina Faso,70040,"Cost of a healthy diet (CoHD), PPP dollar per person per day",6226,Value,2024,2024,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,3.73,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70071,"Cost of starchy staples, LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,102.94,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70070,"Cost of starchy staples, PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,0.53,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70081,"Cost of animal source foods, LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,177.59,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70080,"Cost of animal source foods, PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,0.92,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70091,"Cost of legumes, nuts and seeds, LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,64.26,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70090,"Cost of legumes, nuts and seeds, PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,0.33,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70101,"Cost of vegetables, LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,109.46,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70100,"Cost of vegetables, PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,0.57,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70111,"Cost of fruits, LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,74.6,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70110,"Cost of fruits, PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,0.39,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70121,"Cost of oils and fats, LCU per person per day",6205,Value,2021,2021,7S2025,July 2025 (SOFI report),LCU/cap/d,43.64,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,70120,"Cost of oils and fats, PPP dollar per person per day",6226,Value,2021,2021,7S2025,July 2025 (SOFI report),Int$ (PPP) per person per day,0.23,E
+BFA,2017-01-01,2017-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2017,2017,7S2025,July 2025 (SOFI report),%,66.2,E
+BFA,2017-01-01,2017-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2017,2017,12U2024,December 2024 (Update),%,64.9,E
+BFA,2018-01-01,2018-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2018,2018,7S2025,July 2025 (SOFI report),%,63.3,E
+BFA,2018-01-01,2018-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2018,2018,12U2024,December 2024 (Update),%,62.1,E
+BFA,2019-01-01,2019-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2019,2019,7S2025,July 2025 (SOFI report),%,60.2,E
+BFA,2019-01-01,2019-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2019,2019,12U2024,December 2024 (Update),%,58.8,E
+BFA,2020-01-01,2020-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2020,2020,7S2025,July 2025 (SOFI report),%,61.1,E
+BFA,2020-01-01,2020-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2020,2020,12U2024,December 2024 (Update),%,59.7,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2021,2021,7S2025,July 2025 (SOFI report),%,60.7,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2021,2021,12U2024,December 2024 (Update),%,59.1,E
+BFA,2022-01-01,2022-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2022,2022,7S2025,July 2025 (SOFI report),%,64.6,E
+BFA,2022-01-01,2022-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2022,2022,12U2024,December 2024 (Update),%,63.1,E
+BFA,2023-01-01,2023-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2023,2023,7S2025,July 2025 (SOFI report),%,63,E
+BFA,2024-01-01,2024-12-31,233,'854,Burkina Faso,7005,"Prevalence of unaffordability (PUA), percent",6121,Value,2024,2024,7S2025,July 2025 (SOFI report),%,63.4,E
+BFA,2017-01-01,2017-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2017,2017,7S2025,July 2025 (SOFI report),million No,13.2,E
+BFA,2017-01-01,2017-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2017,2017,12U2024,December 2024 (Update),million No,12.9,E
+BFA,2018-01-01,2018-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2018,2018,7S2025,July 2025 (SOFI report),million No,12.9,E
+BFA,2018-01-01,2018-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2018,2018,12U2024,December 2024 (Update),million No,12.7,E
+BFA,2019-01-01,2019-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2019,2019,7S2025,July 2025 (SOFI report),million No,12.6,E
+BFA,2019-01-01,2019-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2019,2019,12U2024,December 2024 (Update),million No,12.3,E
+BFA,2020-01-01,2020-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2020,2020,7S2025,July 2025 (SOFI report),million No,13.1,E
+BFA,2020-01-01,2020-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2020,2020,12U2024,December 2024 (Update),million No,12.8,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2021,2021,7S2025,July 2025 (SOFI report),million No,13.3,E
+BFA,2021-01-01,2021-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2021,2021,12U2024,December 2024 (Update),million No,13,E
+BFA,2022-01-01,2022-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2022,2022,7S2025,July 2025 (SOFI report),million No,14.5,E
+BFA,2022-01-01,2022-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2022,2022,12U2024,December 2024 (Update),million No,14.2,E
+BFA,2023-01-01,2023-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2023,2023,7S2025,July 2025 (SOFI report),million No,14.5,E
+BFA,2024-01-01,2024-12-31,233,'854,Burkina Faso,7006,"Number of people unable to afford a healthy diet (NUA), million",6132,Value,2024,2024,7S2025,July 2025 (SOFI report),million No,14.9,E

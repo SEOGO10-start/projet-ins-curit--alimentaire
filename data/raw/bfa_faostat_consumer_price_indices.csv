@@ -1,0 +1,925 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+BFA,2000-01-01,2000-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,57.797036,X,base year is 2015
+BFA,2001-01-01,2001-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,58.669810,X,base year is 2015
+BFA,2002-01-01,2002-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,61.385107,X,base year is 2015
+BFA,2003-01-01,2003-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,62.451831,X,base year is 2015
+BFA,2004-01-01,2004-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,58.960735,X,base year is 2015
+BFA,2005-01-01,2005-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,61.966956,X,base year is 2015
+BFA,2006-01-01,2006-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,68.852174,X,base year is 2015
+BFA,2007-01-01,2007-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,65.458052,X,base year is 2015
+BFA,2008-01-01,2008-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,76.134988,X,base year is 2015
+BFA,2009-01-01,2009-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,85.454275,X,base year is 2015
+BFA,2010-01-01,2010-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,86.850714,X,base year is 2015
+BFA,2011-01-01,2011-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,92.688602,X,base year is 2015
+BFA,2012-01-01,2012-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,95.510571,X,base year is 2015
+BFA,2013-01-01,2013-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,98.468306,X,base year is 2015
+BFA,2014-01-01,2014-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,97.236724,X,base year is 2015
+BFA,2015-01-01,2015-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,96.073026,X,base year is 2015
+BFA,2016-01-01,2016-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,96.790640,X,base year is 2015
+BFA,2017-01-01,2017-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,97.294909,X,base year is 2015
+BFA,2018-01-01,2018-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,102.347301,X,base year is 2015
+BFA,2019-01-01,2019-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,99.215012,X,base year is 2015
+BFA,2020-01-01,2020-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,97.120355,X,base year is 2015
+BFA,2021-01-01,2021-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,102.725503,X,base year is 2015
+BFA,2022-01-01,2022-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,117.232947,X,base year is 2015
+BFA,2023-01-01,2023-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,129.926961,X,base year is 2015
+BFA,2024-01-01,2024-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,133.253199,X,base year is 2015
+BFA,2025-01-01,2025-01-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,143.821350,X,base year is 2015
+BFA,2000-02-01,2000-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,57.021237,X,base year is 2015
+BFA,2001-02-01,2001-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,58.960735,X,base year is 2015
+BFA,2002-02-01,2002-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,64.391328,X,base year is 2015
+BFA,2003-02-01,2003-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,61.773006,X,base year is 2015
+BFA,2004-02-01,2004-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,57.021237,X,base year is 2015
+BFA,2005-02-01,2005-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,61.773006,X,base year is 2015
+BFA,2006-02-01,2006-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,68.464274,X,base year is 2015
+BFA,2007-02-01,2007-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,65.555027,X,base year is 2015
+BFA,2008-02-01,2008-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,76.028316,X,base year is 2015
+BFA,2009-02-01,2009-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,86.181587,X,base year is 2015
+BFA,2010-02-01,2010-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,87.325891,X,base year is 2015
+BFA,2011-02-01,2011-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,91.224281,X,base year is 2015
+BFA,2012-02-01,2012-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,95.413597,X,base year is 2015
+BFA,2013-02-01,2013-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,98.943483,X,base year is 2015
+BFA,2014-02-01,2014-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,96.179698,X,base year is 2015
+BFA,2015-02-01,2015-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,96.897312,X,base year is 2015
+BFA,2016-02-01,2016-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,98.216171,X,base year is 2015
+BFA,2017-02-01,2017-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,97.294909,X,base year is 2015
+BFA,2018-02-01,2018-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,102.735201,X,base year is 2015
+BFA,2019-02-01,2019-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,98.235566,X,base year is 2015
+BFA,2020-02-01,2020-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,97.867061,X,base year is 2015
+BFA,2021-02-01,2021-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,102.773991,X,base year is 2015
+BFA,2022-02-01,2022-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,121.102245,X,base year is 2015
+BFA,2023-02-01,2023-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,130.431230,X,base year is 2015
+BFA,2024-02-01,2024-02-29,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,133.001065,X,base year is 2015
+BFA,2025-02-01,2025-02-28,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,141.676763,X,base year is 2015
+BFA,2000-03-01,2000-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,57.215186,X,base year is 2015
+BFA,2001-03-01,2001-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,63.518554,X,base year is 2015
+BFA,2002-03-01,2002-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,63.906454,X,base year is 2015
+BFA,2003-03-01,2003-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,60.706283,X,base year is 2015
+BFA,2004-03-01,2004-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,56.342412,X,base year is 2015
+BFA,2005-03-01,2005-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,64.779228,X,base year is 2015
+BFA,2006-03-01,2006-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,67.203600,X,base year is 2015
+BFA,2007-03-01,2007-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,64.973178,X,base year is 2015
+BFA,2008-03-01,2008-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,75.601626,X,base year is 2015
+BFA,2009-03-01,2009-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,86.065217,X,base year is 2015
+BFA,2010-03-01,2010-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,86.957386,X,base year is 2015
+BFA,2011-03-01,2011-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,91.340651,X,base year is 2015
+BFA,2012-03-01,2012-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,95.403899,X,base year is 2015
+BFA,2013-03-01,2013-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,99.021063,X,base year is 2015
+BFA,2014-03-01,2014-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,95.956656,X,base year is 2015
+BFA,2015-03-01,2015-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,96.713060,X,base year is 2015
+BFA,2016-03-01,2016-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,98.594373,X,base year is 2015
+BFA,2017-03-01,2017-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,99.515634,X,base year is 2015
+BFA,2018-03-01,2018-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,102.938848,X,base year is 2015
+BFA,2019-03-01,2019-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,99.079247,X,base year is 2015
+BFA,2020-03-01,2020-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,98.458608,X,base year is 2015
+BFA,2021-03-01,2021-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,103.947387,X,base year is 2015
+BFA,2022-03-01,2022-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,129.151162,X,base year is 2015
+BFA,2023-03-01,2023-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,130.867617,X,base year is 2015
+BFA,2024-03-01,2024-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,134.106579,X,base year is 2015
+BFA,2025-03-01,2025-03-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,142.078873,X,base year is 2015
+BFA,2000-04-01,2000-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,57.409136,X,base year is 2015
+BFA,2001-04-01,2001-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,61.385107,X,base year is 2015
+BFA,2002-04-01,2002-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,63.906454,X,base year is 2015
+BFA,2003-04-01,2003-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,61.191157,X,base year is 2015
+BFA,2004-04-01,2004-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,59.542584,X,base year is 2015
+BFA,2005-04-01,2005-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,68.270324,X,base year is 2015
+BFA,2006-04-01,2006-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,68.755199,X,base year is 2015
+BFA,2007-04-01,2007-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,65.748977,X,base year is 2015
+BFA,2008-04-01,2008-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,78.200553,X,base year is 2015
+BFA,2009-04-01,2009-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,86.831319,X,base year is 2015
+BFA,2010-04-01,2010-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,87.655605,X,base year is 2015
+BFA,2011-04-01,2011-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,91.786736,X,base year is 2015
+BFA,2012-04-01,2012-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,96.170001,X,base year is 2015
+BFA,2013-04-01,2013-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,99.990811,X,base year is 2015
+BFA,2014-04-01,2014-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,92.775879,X,base year is 2015
+BFA,2015-04-01,2015-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,97.372489,X,base year is 2015
+BFA,2016-04-01,2016-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,101.290275,X,base year is 2015
+BFA,2017-04-01,2017-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,100.272039,X,base year is 2015
+BFA,2018-04-01,2018-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,105.411708,X,base year is 2015
+BFA,2019-04-01,2019-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,99.816257,X,base year is 2015
+BFA,2020-04-01,2020-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,99.302290,X,base year is 2015
+BFA,2021-04-01,2021-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,106.623894,X,base year is 2015
+BFA,2022-04-01,2022-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,133.980511,X,base year is 2015
+BFA,2023-04-01,2023-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,132.167081,X,base year is 2015
+BFA,2024-04-01,2024-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,137.316447,X,base year is 2015
+BFA,2025-04-01,2025-04-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,145.161716,X,base year is 2015
+BFA,2000-05-01,2000-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,60.221408,X,base year is 2015
+BFA,2001-05-01,2001-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,64.682253,X,base year is 2015
+BFA,2002-05-01,2002-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,66.524776,X,base year is 2015
+BFA,2003-05-01,2003-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,67.979399,X,base year is 2015
+BFA,2004-05-01,2004-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,60.803257,X,base year is 2015
+BFA,2005-05-01,2005-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,71.955370,X,base year is 2015
+BFA,2006-05-01,2006-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,72.925119,X,base year is 2015
+BFA,2007-05-01,2007-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,68.464274,X,base year is 2015
+BFA,2008-05-01,2008-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,86.084612,X,base year is 2015
+BFA,2009-05-01,2009-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,87.568328,X,base year is 2015
+BFA,2010-05-01,2010-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,89.730868,X,base year is 2015
+BFA,2011-05-01,2011-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,93.163779,X,base year is 2015
+BFA,2012-05-01,2012-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,99.166525,X,base year is 2015
+BFA,2013-05-01,2013-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,101.484225,X,base year is 2015
+BFA,2014-05-01,2014-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,96.616085,X,base year is 2015
+BFA,2015-05-01,2015-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,98.730138,X,base year is 2015
+BFA,2016-05-01,2016-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,102.483066,X,base year is 2015
+BFA,2017-05-01,2017-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,101.910914,X,base year is 2015
+BFA,2018-05-01,2018-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,106.429944,X,base year is 2015
+BFA,2019-05-01,2019-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,101.144813,X,base year is 2015
+BFA,2020-05-01,2020-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,105.692935,X,base year is 2015
+BFA,2021-05-01,2021-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,110.144083,X,base year is 2015
+BFA,2022-05-01,2022-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,137.917692,X,base year is 2015
+BFA,2023-05-01,2023-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,134.193856,X,base year is 2015
+BFA,2024-05-01,2024-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,140.254787,X,base year is 2015
+BFA,2025-05-01,2025-05-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,148.914743,X,base year is 2015
+BFA,2000-06-01,2000-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,61.869981,X,base year is 2015
+BFA,2001-06-01,2001-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,67.203600,X,base year is 2015
+BFA,2002-06-01,2002-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,69.724948,X,base year is 2015
+BFA,2003-06-01,2003-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,72.731169,X,base year is 2015
+BFA,2004-06-01,2004-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,62.936705,X,base year is 2015
+BFA,2005-06-01,2005-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,78.064788,X,base year is 2015
+BFA,2006-06-01,2006-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,72.246295,X,base year is 2015
+BFA,2007-06-01,2007-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,70.306797,X,base year is 2015
+BFA,2008-06-01,2008-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,91.534601,X,base year is 2015
+BFA,2009-06-01,2009-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,87.558630,X,base year is 2015
+BFA,2010-06-01,2010-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,91.864315,X,base year is 2015
+BFA,2011-06-01,2011-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,96.344555,X,base year is 2015
+BFA,2012-06-01,2012-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,100.068391,X,base year is 2015
+BFA,2013-06-01,2013-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,103.879505,X,base year is 2015
+BFA,2014-06-01,2014-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,98.710743,X,base year is 2015
+BFA,2015-06-01,2015-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,102.453974,X,base year is 2015
+BFA,2016-06-01,2016-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,103.734042,X,base year is 2015
+BFA,2017-06-01,2017-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,103.317050,X,base year is 2015
+BFA,2018-06-01,2018-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,108.728249,X,base year is 2015
+BFA,2019-06-01,2019-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,100.446593,X,base year is 2015
+BFA,2020-06-01,2020-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,104.005572,X,base year is 2015
+BFA,2021-06-01,2021-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,110.153780,X,base year is 2015
+BFA,2022-06-01,2022-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,141.990637,X,base year is 2015
+BFA,2023-06-01,2023-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,136.909153,X,base year is 2015
+BFA,2024-06-01,2024-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,142.116705,X,base year is 2015
+BFA,2025-06-01,2025-06-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,149.584926,X,base year is 2015
+BFA,2000-07-01,2000-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,59.736534,X,base year is 2015
+BFA,2001-07-01,2001-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,66.912676,X,base year is 2015
+BFA,2002-07-01,2002-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,68.658224,X,base year is 2015
+BFA,2003-07-01,2003-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,66.621751,X,base year is 2015
+BFA,2004-07-01,2004-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,63.033680,X,base year is 2015
+BFA,2005-07-01,2005-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,75.737391,X,base year is 2015
+BFA,2006-07-01,2006-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,74.767642,X,base year is 2015
+BFA,2007-07-01,2007-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,71.373521,X,base year is 2015
+BFA,2008-07-01,2008-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,92.184333,X,base year is 2015
+BFA,2009-07-01,2009-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,93.503191,X,base year is 2015
+BFA,2010-07-01,2010-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,92.339492,X,base year is 2015
+BFA,2011-07-01,2011-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,97.139750,X,base year is 2015
+BFA,2012-07-01,2012-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,104.422564,X,base year is 2015
+BFA,2013-07-01,2013-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,102.521856,X,base year is 2015
+BFA,2014-07-01,2014-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,98.749533,X,base year is 2015
+BFA,2015-07-01,2015-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,102.773991,X,base year is 2015
+BFA,2016-07-01,2016-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,102.453974,X,base year is 2015
+BFA,2017-07-01,2017-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,105.780213,X,base year is 2015
+BFA,2018-07-01,2018-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,110.755024,X,base year is 2015
+BFA,2019-07-01,2019-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,101.532712,X,base year is 2015
+BFA,2020-07-01,2020-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,104.587421,X,base year is 2015
+BFA,2021-07-01,2021-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,104.917136,X,base year is 2015
+BFA,2022-07-01,2022-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,144.453800,X,base year is 2015
+BFA,2023-07-01,2023-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,137.267960,X,base year is 2015
+BFA,2024-07-01,2024-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,148.187333,X,base year is 2015
+BFA,2025-07-01,2025-07-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,150.066848,A,base year is 2015
+BFA,2000-08-01,2000-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,58.475860,X,base year is 2015
+BFA,2001-08-01,2001-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,68.076374,X,base year is 2015
+BFA,2002-08-01,2002-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,69.434023,X,base year is 2015
+BFA,2003-08-01,2003-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,62.645780,X,base year is 2015
+BFA,2004-08-01,2004-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,61.579057,X,base year is 2015
+BFA,2005-08-01,2005-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,77.192014,X,base year is 2015
+BFA,2006-08-01,2006-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,72.731169,X,base year is 2015
+BFA,2007-08-01,2007-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,70.306797,X,base year is 2015
+BFA,2008-08-01,2008-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,93.183174,X,base year is 2015
+BFA,2009-08-01,2009-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,93.367426,X,base year is 2015
+BFA,2010-08-01,2010-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,92.834064,X,base year is 2015
+BFA,2011-08-01,2011-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,97.808876,X,base year is 2015
+BFA,2012-08-01,2012-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,103.734042,X,base year is 2015
+BFA,2013-08-01,2013-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,100.233249,X,base year is 2015
+BFA,2014-08-01,2014-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.574978,X,base year is 2015
+BFA,2015-08-01,2015-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,103.317050,X,base year is 2015
+BFA,2016-08-01,2016-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,102.531554,X,base year is 2015
+BFA,2017-08-01,2017-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,104.791069,X,base year is 2015
+BFA,2018-08-01,2018-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,108.427627,X,base year is 2015
+BFA,2019-08-01,2019-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,98.400423,X,base year is 2015
+BFA,2020-08-01,2020-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,104.917136,X,base year is 2015
+BFA,2021-08-01,2021-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,111.307781,X,base year is 2015
+BFA,2022-08-01,2022-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,144.453800,X,base year is 2015
+BFA,2023-08-01,2023-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,135.861824,X,base year is 2015
+BFA,2024-08-01,2024-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,150.233503,X,base year is 2015
+BFA,2025-08-01,2025-08-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,146.181188,A,base year is 2015
+BFA,2000-09-01,2000-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,56.245438,X,base year is 2015
+BFA,2001-09-01,2001-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,63.712504,X,base year is 2015
+BFA,2002-09-01,2002-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,65.458052,X,base year is 2015
+BFA,2003-09-01,2003-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,63.033680,X,base year is 2015
+BFA,2004-09-01,2004-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,60.900232,X,base year is 2015
+BFA,2005-09-01,2005-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,70.985621,X,base year is 2015
+BFA,2006-09-01,2006-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,69.530998,X,base year is 2015
+BFA,2007-09-01,2007-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,71.373521,X,base year is 2015
+BFA,2008-09-01,2008-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,92.562535,X,base year is 2015
+BFA,2009-09-01,2009-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,90.206045,X,base year is 2015
+BFA,2010-09-01,2010-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,91.408533,X,base year is 2015
+BFA,2011-09-01,2011-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,96.577295,X,base year is 2015
+BFA,2012-09-01,2012-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,106.032347,X,base year is 2015
+BFA,2013-09-01,2013-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,100.650241,X,base year is 2015
+BFA,2014-09-01,2014-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,98.313146,X,base year is 2015
+BFA,2015-09-01,2015-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,101.329065,X,base year is 2015
+BFA,2016-09-01,2016-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,105.615355,X,base year is 2015
+BFA,2017-09-01,2017-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,106.080835,X,base year is 2015
+BFA,2018-09-01,2018-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,108.301560,X,base year is 2015
+BFA,2019-09-01,2019-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,97.663414,X,base year is 2015
+BFA,2020-09-01,2020-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,105.576565,X,base year is 2015
+BFA,2021-09-01,2021-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,114.614625,X,base year is 2015
+BFA,2022-09-01,2022-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,144.851397,X,base year is 2015
+BFA,2023-09-01,2023-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,135.755152,X,base year is 2015
+BFA,2024-09-01,2024-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,150.126831,X,base year is 2015
+BFA,2025-09-01,2025-09-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,143.099458,A,base year is 2015
+BFA,2000-10-01,2000-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,57.990986,X,base year is 2015
+BFA,2001-10-01,2001-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,65.264103,X,base year is 2015
+BFA,2002-10-01,2002-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,64.391328,X,base year is 2015
+BFA,2003-10-01,2003-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,62.548806,X,base year is 2015
+BFA,2004-10-01,2004-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,64.682253,X,base year is 2015
+BFA,2005-10-01,2005-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,76.610165,X,base year is 2015
+BFA,2006-10-01,2006-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,69.627973,X,base year is 2015
+BFA,2007-10-01,2007-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,73.313019,X,base year is 2015
+BFA,2008-10-01,2008-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,91.166096,X,base year is 2015
+BFA,2009-10-01,2009-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,90.972146,X,base year is 2015
+BFA,2010-10-01,2010-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,91.292164,X,base year is 2015
+BFA,2011-10-01,2011-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,98.991970,X,base year is 2015
+BFA,2012-10-01,2012-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,104.946228,X,base year is 2015
+BFA,2013-10-01,2013-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,99.341080,X,base year is 2015
+BFA,2014-10-01,2014-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,96.887615,X,base year is 2015
+BFA,2015-10-01,2015-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,102.599436,X,base year is 2015
+BFA,2016-10-01,2016-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,101.319367,X,base year is 2015
+BFA,2017-10-01,2017-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,103.734042,X,base year is 2015
+BFA,2018-10-01,2018-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,106.575407,X,base year is 2015
+BFA,2019-10-01,2019-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,97.731296,X,base year is 2015
+BFA,2020-10-01,2020-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,106.080835,X,base year is 2015
+BFA,2021-10-01,2021-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,114.944340,X,base year is 2015
+BFA,2022-10-01,2022-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,142.165192,X,base year is 2015
+BFA,2023-10-01,2023-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,135.687269,X,base year is 2015
+BFA,2024-10-01,2024-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,150.291688,X,base year is 2015
+BFA,2025-10-01,2025-10-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,142.814106,I,base year is 2015
+BFA,2000-11-01,2000-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,57.603086,X,base year is 2015
+BFA,2001-11-01,2001-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,63.906454,X,base year is 2015
+BFA,2002-11-01,2002-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,65.070153,X,base year is 2015
+BFA,2003-11-01,2003-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,64.973178,X,base year is 2015
+BFA,2004-11-01,2004-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,64.585278,X,base year is 2015
+BFA,2005-11-01,2005-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,71.179571,X,base year is 2015
+BFA,2006-11-01,2006-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,69.918897,X,base year is 2015
+BFA,2007-11-01,2007-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,75.252516,X,base year is 2015
+BFA,2008-11-01,2008-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,88.450799,X,base year is 2015
+BFA,2009-11-01,2009-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,88.441102,X,base year is 2015
+BFA,2010-11-01,2010-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,90.167255,X,base year is 2015
+BFA,2011-11-01,2011-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,98.798020,X,base year is 2015
+BFA,2012-11-01,2012-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,105.101388,X,base year is 2015
+BFA,2013-11-01,2013-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,99.874442,X,base year is 2015
+BFA,2014-11-01,2014-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,97.411279,X,base year is 2015
+BFA,2015-11-01,2015-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,101.552107,X,base year is 2015
+BFA,2016-11-01,2016-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.552107,X,base year is 2015
+BFA,2017-11-01,2017-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,104.568026,X,base year is 2015
+BFA,2018-11-01,2018-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,103.423723,X,base year is 2015
+BFA,2019-11-01,2019-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,97.168842,X,base year is 2015
+BFA,2020-11-01,2020-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,105.615355,X,base year is 2015
+BFA,2021-11-01,2021-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,116.437753,X,base year is 2015
+BFA,2022-11-01,2022-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,139.255945,X,base year is 2015
+BFA,2023-11-01,2023-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,136.443673,X,base year is 2015
+BFA,2024-11-01,2024-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,145.578708,X,base year is 2015
+BFA,2025-11-01,2025-11-30,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,143.362438,I,base year is 2015
+BFA,2000-12-01,2000-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,58.669810,X,base year is 2015
+BFA,2001-12-01,2001-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,60.318383,X,base year is 2015
+BFA,2002-12-01,2002-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,63.421580,X,base year is 2015
+BFA,2003-12-01,2003-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,64.003429,X,base year is 2015
+BFA,2004-12-01,2004-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,63.033680,X,base year is 2015
+BFA,2005-12-01,2005-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,68.464274,X,base year is 2015
+BFA,2006-12-01,2006-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,69.337048,X,base year is 2015
+BFA,2007-12-01,2007-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,70.985621,X,base year is 2015
+BFA,2008-12-01,2008-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,86.617974,X,base year is 2015
+BFA,2009-12-01,2009-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,87.490748,X,base year is 2015
+BFA,2010-12-01,2010-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,90.710314,X,base year is 2015
+BFA,2011-12-01,2011-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,99.476845,X,base year is 2015
+BFA,2012-12-01,2012-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,101.047838,X,base year is 2015
+BFA,2013-12-01,2013-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,98.274356,X,base year is 2015
+BFA,2014-12-01,2014-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,96.266976,X,base year is 2015
+BFA,2015-12-01,2015-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.592056,X,base year is 2015
+BFA,2016-12-01,2016-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,97.508254,X,base year is 2015
+BFA,2017-12-01,2017-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,103.530395,X,base year is 2015
+BFA,2018-12-01,2018-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,103.055218,X,base year is 2015
+BFA,2019-12-01,2019-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,97.576137,X,base year is 2015
+BFA,2020-12-01,2020-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,102.841873,X,base year is 2015
+BFA,2021-12-01,2021-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,117.523872,X,base year is 2015
+BFA,2022-12-01,2022-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,134.775705,X,base year is 2015
+BFA,2023-12-01,2023-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,133.350174,X,base year is 2015
+BFA,2024-12-01,2024-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,145.161716,X,base year is 2015
+BFA,2025-12-01,2025-12-31,233,'854,Burkina Faso,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,142.048543,I,base year is 2015
+BFA,2000-01-01,2000-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,68.614587,X,base year is 2015
+BFA,2001-01-01,2001-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,71.030134,X,base year is 2015
+BFA,2002-01-01,2002-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,71.748269,X,base year is 2015
+BFA,2003-01-01,2003-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,74.490241,X,base year is 2015
+BFA,2004-01-01,2004-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,74.751381,X,base year is 2015
+BFA,2005-01-01,2005-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,76.971073,X,base year is 2015
+BFA,2006-01-01,2006-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,81.802167,X,base year is 2015
+BFA,2007-01-01,2007-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,80.431181,X,base year is 2015
+BFA,2008-01-01,2008-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,85.980410,X,base year is 2015
+BFA,2009-01-01,2009-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,92.988402,X,base year is 2015
+BFA,2010-01-01,2010-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,92.445648,X,base year is 2015
+BFA,2011-01-01,2011-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,93.466634,X,base year is 2015
+BFA,2012-01-01,2012-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,96.065508,X,base year is 2015
+BFA,2013-01-01,2013-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,98.478748,X,base year is 2015
+BFA,2014-01-01,2014-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.478748,X,base year is 2015
+BFA,2015-01-01,2015-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,98.200297,X,base year is 2015
+BFA,2016-01-01,2016-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,98.385931,X,base year is 2015
+BFA,2017-01-01,2017-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,100.056635,X,base year is 2015
+BFA,2018-01-01,2018-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,102.005790,X,base year is 2015
+BFA,2019-01-01,2019-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,100.520720,X,base year is 2015
+BFA,2020-01-01,2020-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,99.592551,X,base year is 2015
+BFA,2021-01-01,2021-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,102.655509,X,base year is 2015
+BFA,2022-01-01,2022-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,109.988045,X,base year is 2015
+BFA,2023-01-01,2023-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,119.086356,X,base year is 2015
+BFA,2024-01-01,2024-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,124.153296,X,base year is 2015
+BFA,2025-01-01,2025-01-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,125.946995,X,base year is 2015
+BFA,2000-02-01,2000-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,68.418732,X,base year is 2015
+BFA,2001-02-01,2001-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,71.095419,X,base year is 2015
+BFA,2002-02-01,2002-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,73.445680,X,base year is 2015
+BFA,2003-02-01,2003-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,75.077807,X,base year is 2015
+BFA,2004-02-01,2004-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,73.641536,X,base year is 2015
+BFA,2005-02-01,2005-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,76.448793,X,base year is 2015
+BFA,2006-02-01,2006-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,81.475741,X,base year is 2015
+BFA,2007-02-01,2007-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,80.365896,X,base year is 2015
+BFA,2008-02-01,2008-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,86.045695,X,base year is 2015
+BFA,2009-02-01,2009-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,93.445829,X,base year is 2015
+BFA,2010-02-01,2010-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,92.538465,X,base year is 2015
+BFA,2011-02-01,2011-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,92.816916,X,base year is 2015
+BFA,2012-02-01,2012-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,96.343959,X,base year is 2015
+BFA,2013-02-01,2013-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,98.757198,X,base year is 2015
+BFA,2014-02-01,2014-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,98.014663,X,base year is 2015
+BFA,2015-02-01,2015-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,98.293114,X,base year is 2015
+BFA,2016-02-01,2016-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,98.942832,X,base year is 2015
+BFA,2017-02-01,2017-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,99.592551,X,base year is 2015
+BFA,2018-02-01,2018-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,102.284241,X,base year is 2015
+BFA,2019-02-01,2019-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,100.149452,X,base year is 2015
+BFA,2020-02-01,2020-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,100.613537,X,base year is 2015
+BFA,2021-02-01,2021-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,102.191424,X,base year is 2015
+BFA,2022-02-01,2022-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,112.586919,X,base year is 2015
+BFA,2023-02-01,2023-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,119.411137,X,base year is 2015
+BFA,2024-02-01,2024-02-29,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,122.689091,X,base year is 2015
+BFA,2025-02-01,2025-02-28,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,125.457880,X,base year is 2015
+BFA,2000-03-01,2000-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,68.288161,X,base year is 2015
+BFA,2001-03-01,2001-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,72.858115,X,base year is 2015
+BFA,2002-03-01,2002-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,73.380395,X,base year is 2015
+BFA,2003-03-01,2003-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,74.686096,X,base year is 2015
+BFA,2004-03-01,2004-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,73.967961,X,base year is 2015
+BFA,2005-03-01,2005-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,77.819779,X,base year is 2015
+BFA,2006-03-01,2006-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,80.757606,X,base year is 2015
+BFA,2007-03-01,2007-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,80.365896,X,base year is 2015
+BFA,2008-03-01,2008-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,86.372120,X,base year is 2015
+BFA,2009-03-01,2009-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,92.400281,X,base year is 2015
+BFA,2010-03-01,2010-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,91.981563,X,base year is 2015
+BFA,2011-03-01,2011-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,93.095366,X,base year is 2015
+BFA,2012-03-01,2012-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,96.343959,X,base year is 2015
+BFA,2013-03-01,2013-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,98.757198,X,base year is 2015
+BFA,2014-03-01,2014-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,98.757198,X,base year is 2015
+BFA,2015-03-01,2015-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,98.200297,X,base year is 2015
+BFA,2016-03-01,2016-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,99.221283,X,base year is 2015
+BFA,2017-03-01,2017-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,101.077621,X,base year is 2015
+BFA,2018-03-01,2018-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,102.655509,X,base year is 2015
+BFA,2019-03-01,2019-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,100.613537,X,base year is 2015
+BFA,2020-03-01,2020-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,100.335086,X,base year is 2015
+BFA,2021-03-01,2021-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,102.841143,X,base year is 2015
+BFA,2022-03-01,2022-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,116.763680,X,base year is 2015
+BFA,2023-03-01,2023-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,120.119750,X,base year is 2015
+BFA,2024-03-01,2024-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,123.253122,X,base year is 2015
+BFA,2025-03-01,2025-03-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,125.997334,X,base year is 2015
+BFA,2000-04-01,2000-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,68.288161,X,base year is 2015
+BFA,2001-04-01,2001-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,72.009409,X,base year is 2015
+BFA,2002-04-01,2002-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,73.902676,X,base year is 2015
+BFA,2003-04-01,2003-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,74.751381,X,base year is 2015
+BFA,2004-04-01,2004-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,74.686096,X,base year is 2015
+BFA,2005-04-01,2005-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,79.125480,X,base year is 2015
+BFA,2006-04-01,2006-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,81.475741,X,base year is 2015
+BFA,2007-04-01,2007-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,80.627036,X,base year is 2015
+BFA,2008-04-01,2008-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,86.829115,X,base year is 2015
+BFA,2009-04-01,2009-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,92.585452,X,base year is 2015
+BFA,2010-04-01,2010-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,92.167197,X,base year is 2015
+BFA,2011-04-01,2011-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,93.652268,X,base year is 2015
+BFA,2012-04-01,2012-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,97.179311,X,base year is 2015
+BFA,2013-04-01,2013-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,99.499734,X,base year is 2015
+BFA,2014-04-01,2014-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,97.457762,X,base year is 2015
+BFA,2015-04-01,2015-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,98.200297,X,base year is 2015
+BFA,2016-04-01,2016-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,99.592551,X,base year is 2015
+BFA,2017-04-01,2017-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,101.263255,X,base year is 2015
+BFA,2018-04-01,2018-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,103.676495,X,base year is 2015
+BFA,2019-04-01,2019-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,101.077621,X,base year is 2015
+BFA,2020-04-01,2020-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,99.871001,X,base year is 2015
+BFA,2021-04-01,2021-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,104.419030,X,base year is 2015
+BFA,2022-04-01,2022-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,120.287061,X,base year is 2015
+BFA,2023-04-01,2023-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,120.562633,X,base year is 2015
+BFA,2024-04-01,2024-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,125.062046,X,base year is 2015
+BFA,2025-04-01,2025-04-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,127.216580,X,base year is 2015
+BFA,2000-05-01,2000-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,70.050858,X,base year is 2015
+BFA,2001-05-01,2001-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,73.249825,X,base year is 2015
+BFA,2002-05-01,2002-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,75.143092,X,base year is 2015
+BFA,2003-05-01,2003-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,77.166928,X,base year is 2015
+BFA,2004-05-01,2004-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,75.273662,X,base year is 2015
+BFA,2005-05-01,2005-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,80.692321,X,base year is 2015
+BFA,2006-05-01,2006-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,83.369008,X,base year is 2015
+BFA,2007-05-01,2007-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,81.802167,X,base year is 2015
+BFA,2008-05-01,2008-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,90.746218,X,base year is 2015
+BFA,2009-05-01,2009-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,92.955794,X,base year is 2015
+BFA,2010-05-01,2010-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,92.909733,X,base year is 2015
+BFA,2011-05-01,2011-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,94.487620,X,base year is 2015
+BFA,2012-05-01,2012-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,98.478748,X,base year is 2015
+BFA,2013-05-01,2013-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,99.592551,X,base year is 2015
+BFA,2014-05-01,2014-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.406917,X,base year is 2015
+BFA,2015-05-01,2015-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.128466,X,base year is 2015
+BFA,2016-05-01,2016-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.242269,X,base year is 2015
+BFA,2017-05-01,2017-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.469875,X,base year is 2015
+BFA,2018-05-01,2018-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,104.047763,X,base year is 2015
+BFA,2019-05-01,2019-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,101.634523,X,base year is 2015
+BFA,2020-05-01,2020-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,103.769312,X,base year is 2015
+BFA,2021-05-01,2021-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,106.182552,X,base year is 2015
+BFA,2022-05-01,2022-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,122.540845,X,base year is 2015
+BFA,2023-05-01,2023-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,122.117645,X,base year is 2015
+BFA,2024-05-01,2024-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,126.313186,X,base year is 2015
+BFA,2025-05-01,2025-05-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,128.237053,X,base year is 2015
+BFA,2000-06-01,2000-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,70.768993,X,base year is 2015
+BFA,2001-06-01,2001-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,74.555526,X,base year is 2015
+BFA,2002-06-01,2002-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,76.252937,X,base year is 2015
+BFA,2003-06-01,2003-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,78.668484,X,base year is 2015
+BFA,2004-06-01,2004-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,76.514078,X,base year is 2015
+BFA,2005-06-01,2005-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,83.238438,X,base year is 2015
+BFA,2006-06-01,2006-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,83.695433,X,base year is 2015
+BFA,2007-06-01,2007-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,82.455017,X,base year is 2015
+BFA,2008-06-01,2008-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,94.859176,X,base year is 2015
+BFA,2009-06-01,2009-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,92.863208,X,base year is 2015
+BFA,2010-06-01,2010-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,93.466634,X,base year is 2015
+BFA,2011-06-01,2011-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,95.787057,X,base year is 2015
+BFA,2012-06-01,2012-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,99.128466,X,base year is 2015
+BFA,2013-06-01,2013-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,100.984804,X,base year is 2015
+BFA,2014-06-01,2014-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,100.520720,X,base year is 2015
+BFA,2015-06-01,2015-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,101.448889,X,base year is 2015
+BFA,2016-06-01,2016-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,100.427903,X,base year is 2015
+BFA,2017-06-01,2017-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,101.727340,X,base year is 2015
+BFA,2018-06-01,2018-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,105.440016,X,base year is 2015
+BFA,2019-06-01,2019-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,101.356072,X,base year is 2015
+BFA,2020-06-01,2020-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,102.469875,X,base year is 2015
+BFA,2021-06-01,2021-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,106.089735,X,base year is 2015
+BFA,2022-06-01,2022-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,124.942255,X,base year is 2015
+BFA,2023-06-01,2023-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,124.041820,X,base year is 2015
+BFA,2024-06-01,2024-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,127.024608,X,base year is 2015
+BFA,2025-06-01,2025-06-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,128.392567,X,base year is 2015
+BFA,2000-07-01,2000-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,69.920288,X,base year is 2015
+BFA,2001-07-01,2001-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,74.620811,X,base year is 2015
+BFA,2002-07-01,2002-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,75.861227,X,base year is 2015
+BFA,2003-07-01,2003-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,76.579363,X,base year is 2015
+BFA,2004-07-01,2004-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,76.318223,X,base year is 2015
+BFA,2005-07-01,2005-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,82.455017,X,base year is 2015
+BFA,2006-07-01,2006-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,84.609424,X,base year is 2015
+BFA,2007-07-01,2007-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,83.434293,X,base year is 2015
+BFA,2008-07-01,2008-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,92.965910,X,base year is 2015
+BFA,2009-07-01,2009-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,95.455601,X,base year is 2015
+BFA,2010-07-01,2010-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,93.745085,X,base year is 2015
+BFA,2011-07-01,2011-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,96.251142,X,base year is 2015
+BFA,2012-07-01,2012-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,100.706354,X,base year is 2015
+BFA,2013-07-01,2013-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,101.448889,X,base year is 2015
+BFA,2014-07-01,2014-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,100.335086,X,base year is 2015
+BFA,2015-07-01,2015-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,101.448889,X,base year is 2015
+BFA,2016-07-01,2016-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,100.335086,X,base year is 2015
+BFA,2017-07-01,2017-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,103.398044,X,base year is 2015
+BFA,2018-07-01,2018-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,106.275369,X,base year is 2015
+BFA,2019-07-01,2019-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,101.541706,X,base year is 2015
+BFA,2020-07-01,2020-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,102.933960,X,base year is 2015
+BFA,2021-07-01,2021-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,104.140579,X,base year is 2015
+BFA,2022-07-01,2022-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,126.103593,X,base year is 2015
+BFA,2023-07-01,2023-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,124.654116,X,base year is 2015
+BFA,2024-07-01,2024-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,130.033319,X,base year is 2015
+BFA,2025-07-01,2025-07-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,128.514846,X,base year is 2015
+BFA,2000-08-01,2000-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,69.855003,X,base year is 2015
+BFA,2001-08-01,2001-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,74.751381,X,base year is 2015
+BFA,2002-08-01,2002-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,76.775218,X,base year is 2015
+BFA,2003-08-01,2003-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,76.187652,X,base year is 2015
+BFA,2004-08-01,2004-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,76.122367,X,base year is 2015
+BFA,2005-08-01,2005-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,83.499578,X,base year is 2015
+BFA,2006-08-01,2006-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,84.217713,X,base year is 2015
+BFA,2007-08-01,2007-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,82.912012,X,base year is 2015
+BFA,2008-08-01,2008-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,94.467466,X,base year is 2015
+BFA,2009-08-01,2009-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,95.085259,X,base year is 2015
+BFA,2010-08-01,2010-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,93.930719,X,base year is 2015
+BFA,2011-08-01,2011-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,96.622409,X,base year is 2015
+BFA,2012-08-01,2012-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,100.520720,X,base year is 2015
+BFA,2013-08-01,2013-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,99.871001,X,base year is 2015
+BFA,2014-08-01,2014-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,100.056635,X,base year is 2015
+BFA,2015-08-01,2015-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,101.727340,X,base year is 2015
+BFA,2016-08-01,2016-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.984804,X,base year is 2015
+BFA,2017-08-01,2017-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,103.026776,X,base year is 2015
+BFA,2018-08-01,2018-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,105.161566,X,base year is 2015
+BFA,2019-08-01,2019-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,100.056635,X,base year is 2015
+BFA,2020-08-01,2020-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,104.140579,X,base year is 2015
+BFA,2021-08-01,2021-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,107.017904,X,base year is 2015
+BFA,2022-08-01,2022-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,126.497267,X,base year is 2015
+BFA,2023-08-01,2023-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,124.010957,X,base year is 2015
+BFA,2024-08-01,2024-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,131.124111,X,base year is 2015
+BFA,2025-08-01,2025-08-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,126.903606,X,base year is 2015
+BFA,2000-09-01,2000-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,69.267437,X,base year is 2015
+BFA,2001-09-01,2001-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,72.727545,X,base year is 2015
+BFA,2002-09-01,2002-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,74.947236,X,base year is 2015
+BFA,2003-09-01,2003-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,76.318223,X,base year is 2015
+BFA,2004-09-01,2004-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,75.730657,X,base year is 2015
+BFA,2005-09-01,2005-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,81.606312,X,base year is 2015
+BFA,2006-09-01,2006-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,82.781442,X,base year is 2015
+BFA,2007-09-01,2007-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,83.238438,X,base year is 2015
+BFA,2008-09-01,2008-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,94.141041,X,base year is 2015
+BFA,2009-09-01,2009-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,93.881648,X,base year is 2015
+BFA,2010-09-01,2010-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,92.538465,X,base year is 2015
+BFA,2011-09-01,2011-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,96.158325,X,base year is 2015
+BFA,2012-09-01,2012-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,101.448889,X,base year is 2015
+BFA,2013-09-01,2013-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,99.128466,X,base year is 2015
+BFA,2014-09-01,2014-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,100.056635,X,base year is 2015
+BFA,2015-09-01,2015-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.149452,X,base year is 2015
+BFA,2016-09-01,2016-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,103.119593,X,base year is 2015
+BFA,2017-09-01,2017-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,103.490861,X,base year is 2015
+BFA,2018-09-01,2018-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,105.532833,X,base year is 2015
+BFA,2019-09-01,2019-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,99.871001,X,base year is 2015
+BFA,2020-09-01,2020-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,104.326213,X,base year is 2015
+BFA,2021-09-01,2021-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,108.874242,X,base year is 2015
+BFA,2022-09-01,2022-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,126.871257,X,base year is 2015
+BFA,2023-09-01,2023-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,123.617037,X,base year is 2015
+BFA,2024-09-01,2024-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,131.233786,X,base year is 2015
+BFA,2025-09-01,2025-09-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,126.056352,X,base year is 2015
+BFA,2000-10-01,2000-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,69.789718,X,base year is 2015
+BFA,2001-10-01,2001-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,73.837391,X,base year is 2015
+BFA,2002-10-01,2002-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,74.620811,X,base year is 2015
+BFA,2003-10-01,2003-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,75.926512,X,base year is 2015
+BFA,2004-10-01,2004-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,77.689209,X,base year is 2015
+BFA,2005-10-01,2005-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,83.760718,X,base year is 2015
+BFA,2006-10-01,2006-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,82.977298,X,base year is 2015
+BFA,2007-10-01,2007-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,84.217713,X,base year is 2015
+BFA,2008-10-01,2008-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,94.336896,X,base year is 2015
+BFA,2009-10-01,2009-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,94.159405,X,base year is 2015
+BFA,2010-10-01,2010-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,92.724099,X,base year is 2015
+BFA,2011-10-01,2011-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,97.086494,X,base year is 2015
+BFA,2012-10-01,2012-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,101.356072,X,base year is 2015
+BFA,2013-10-01,2013-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,98.942832,X,base year is 2015
+BFA,2014-10-01,2014-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.685367,X,base year is 2015
+BFA,2015-10-01,2015-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,101.448889,X,base year is 2015
+BFA,2016-10-01,2016-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,102.005790,X,base year is 2015
+BFA,2017-10-01,2017-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,102.191424,X,base year is 2015
+BFA,2018-10-01,2018-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,104.326213,X,base year is 2015
+BFA,2019-10-01,2019-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,100.335086,X,base year is 2015
+BFA,2020-10-01,2020-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,104.975932,X,base year is 2015
+BFA,2021-10-01,2021-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,109.059876,X,base year is 2015
+BFA,2022-10-01,2022-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,125.483557,X,base year is 2015
+BFA,2023-10-01,2023-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,123.545501,X,base year is 2015
+BFA,2024-10-01,2024-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,131.351202,X,base year is 2015
+BFA,2025-10-01,2025-10-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,125.924895,X,base year is 2015
+BFA,2000-11-01,2000-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,70.377283,X,base year is 2015
+BFA,2001-11-01,2001-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,73.967961,X,base year is 2015
+BFA,2002-11-01,2002-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,74.881951,X,base year is 2015
+BFA,2003-11-01,2003-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,76.971073,X,base year is 2015
+BFA,2004-11-01,2004-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,77.950349,X,base year is 2015
+BFA,2005-11-01,2005-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,81.932737,X,base year is 2015
+BFA,2006-11-01,2006-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,81.736882,X,base year is 2015
+BFA,2007-11-01,2007-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,84.935849,X,base year is 2015
+BFA,2008-11-01,2008-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,93.684046,X,base year is 2015
+BFA,2009-11-01,2009-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,93.418721,X,base year is 2015
+BFA,2010-11-01,2010-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,92.631282,X,base year is 2015
+BFA,2011-11-01,2011-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,97.086494,X,base year is 2015
+BFA,2012-11-01,2012-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,101.170438,X,base year is 2015
+BFA,2013-11-01,2013-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,99.871001,X,base year is 2015
+BFA,2014-11-01,2014-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.499734,X,base year is 2015
+BFA,2015-11-01,2015-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.799170,X,base year is 2015
+BFA,2016-11-01,2016-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,101.448889,X,base year is 2015
+BFA,2017-11-01,2017-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,102.562692,X,base year is 2015
+BFA,2018-11-01,2018-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,102.841143,X,base year is 2015
+BFA,2019-11-01,2019-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,99.592551,X,base year is 2015
+BFA,2020-11-01,2020-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,104.140579,X,base year is 2015
+BFA,2021-11-01,2021-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,110.266496,X,base year is 2015
+BFA,2022-11-01,2022-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,123.810443,X,base year is 2015
+BFA,2023-11-01,2023-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,124.322373,X,base year is 2015
+BFA,2024-11-01,2024-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,128.809502,X,base year is 2015
+BFA,2025-11-01,2025-11-30,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,126.128936,X,base year is 2015
+BFA,2000-12-01,2000-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,70.768993,X,base year is 2015
+BFA,2001-12-01,2001-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,71.487129,X,base year is 2015
+BFA,2002-12-01,2002-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,74.294386,X,base year is 2015
+BFA,2003-12-01,2003-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,76.644648,X,base year is 2015
+BFA,2004-12-01,2004-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,77.166928,X,base year is 2015
+BFA,2005-12-01,2005-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,80.627036,X,base year is 2015
+BFA,2006-12-01,2006-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,81.867452,X,base year is 2015
+BFA,2007-12-01,2007-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,83.695433,X,base year is 2015
+BFA,2008-12-01,2008-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,93.422905,X,base year is 2015
+BFA,2009-12-01,2009-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,93.140965,X,base year is 2015
+BFA,2010-12-01,2010-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,92.816916,X,base year is 2015
+BFA,2011-12-01,2011-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,97.550578,X,base year is 2015
+BFA,2012-12-01,2012-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,99.128466,X,base year is 2015
+BFA,2013-12-01,2013-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,99.314100,X,base year is 2015
+BFA,2014-12-01,2014-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.128466,X,base year is 2015
+BFA,2015-12-01,2015-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,101.077621,X,base year is 2015
+BFA,2016-12-01,2016-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,100.799170,X,base year is 2015
+BFA,2017-12-01,2017-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,102.469875,X,base year is 2015
+BFA,2018-12-01,2018-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,102.748326,X,base year is 2015
+BFA,2019-12-01,2019-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,100.149452,X,base year is 2015
+BFA,2020-12-01,2020-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,102.469875,X,base year is 2015
+BFA,2021-12-01,2021-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,110.637764,X,base year is 2015
+BFA,2022-12-01,2022-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,121.290930,X,base year is 2015
+BFA,2023-12-01,2023-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,122.549947,X,base year is 2015
+BFA,2024-12-01,2024-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,128.514846,X,base year is 2015
+BFA,2025-12-01,2025-12-31,233,'854,Burkina Faso,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,125.640020,X,base year is 2015
+BFA,2001-01-01,2001-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,1.510067,E,
+BFA,2002-01-01,2002-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,4.628099,E,
+BFA,2003-01-01,2003-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,1.737757,E,
+BFA,2004-01-01,2004-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,-5.590062,E,
+BFA,2005-01-01,2005-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,5.098684,E,
+BFA,2006-01-01,2006-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,11.111111,E,
+BFA,2007-01-01,2007-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,-4.929577,E,
+BFA,2008-01-01,2008-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,16.311111,E,
+BFA,2009-01-01,2009-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,12.240479,E,
+BFA,2010-01-01,2010-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,1.634135,E,
+BFA,2011-01-01,2011-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,6.721751,E,
+BFA,2012-01-01,2012-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,3.044570,E,
+BFA,2013-01-01,2013-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,3.096761,E,
+BFA,2014-01-01,2014-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,-1.250739,E,
+BFA,2015-01-01,2015-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,-1.196769,E,
+BFA,2016-01-01,2016-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,0.746947,E,
+BFA,2017-01-01,2017-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,0.520990,E,
+BFA,2018-01-01,2018-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,5.192864,E,
+BFA,2019-01-01,2019-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,-3.060451,E,
+BFA,2020-01-01,2020-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,-2.111231,E,
+BFA,2021-01-01,2021-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,5.771343,E,
+BFA,2022-01-01,2022-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,14.122534,E,
+BFA,2023-01-01,2023-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,10.828025,E,
+BFA,2024-01-01,2024-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,2.560084,E,
+BFA,2025-01-01,2025-01-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7001,January,2025,2025,%,7.930879,E,
+BFA,2001-02-01,2001-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,3.401361,E,
+BFA,2002-02-01,2002-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,9.210526,E,
+BFA,2003-02-01,2003-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,-4.066265,E,
+BFA,2004-02-01,2004-02-29,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,-7.692308,E,
+BFA,2005-02-01,2005-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,8.333333,E,
+BFA,2006-02-01,2006-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,10.832025,E,
+BFA,2007-02-01,2007-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,-4.249292,E,
+BFA,2008-02-01,2008-02-29,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,15.976331,E,
+BFA,2009-02-01,2009-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,13.354592,E,
+BFA,2010-02-01,2010-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,1.327782,E,
+BFA,2011-02-01,2011-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,4.464187,E,
+BFA,2012-02-01,2012-02-29,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,4.592325,E,
+BFA,2013-02-01,2013-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,3.699563,E,
+BFA,2014-02-01,2014-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,-2.793296,E,
+BFA,2015-02-01,2015-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,0.746118,E,
+BFA,2016-02-01,2016-02-29,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,1.361089,E,
+BFA,2017-02-01,2017-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,-0.937994,E,
+BFA,2018-02-01,2018-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,5.591548,E,
+BFA,2019-02-01,2019-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,-4.379838,E,
+BFA,2020-02-01,2020-02-29,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,-0.375123,E,
+BFA,2021-02-01,2021-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,5.013872,E,
+BFA,2022-02-01,2022-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,17.833554,E,
+BFA,2023-02-01,2023-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,7.703395,E,
+BFA,2024-02-01,2024-02-29,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,1.970260,E,
+BFA,2025-02-01,2025-02-28,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7002,February,2025,2025,%,6.523029,E,
+BFA,2001-03-01,2001-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,11.016949,E,
+BFA,2002-03-01,2002-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,0.610687,E,
+BFA,2003-03-01,2003-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,-5.007587,E,
+BFA,2004-03-01,2004-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,-7.188498,E,
+BFA,2005-03-01,2005-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,14.974182,E,
+BFA,2006-03-01,2006-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,3.742515,E,
+BFA,2007-03-01,2007-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,-3.318903,E,
+BFA,2008-03-01,2008-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,16.358209,E,
+BFA,2009-03-01,2009-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,13.840431,E,
+BFA,2010-03-01,2010-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,1.036620,E,
+BFA,2011-03-01,2011-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,5.040705,E,
+BFA,2012-03-01,2012-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,4.448455,E,
+BFA,2013-03-01,2013-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,3.791421,E,
+BFA,2014-03-01,2014-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,-3.094702,E,
+BFA,2015-03-01,2015-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,0.788277,E,
+BFA,2016-03-01,2016-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,1.945252,E,
+BFA,2017-03-01,2017-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,0.934396,E,
+BFA,2018-03-01,2018-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,3.439875,E,
+BFA,2019-03-01,2019-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,-3.749411,E,
+BFA,2020-03-01,2020-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,-0.626407,E,
+BFA,2021-03-01,2021-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,5.574707,E,
+BFA,2022-03-01,2022-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,24.246665,E,
+BFA,2023-03-01,2023-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,1.329028,E,
+BFA,2024-03-01,2024-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,2.474991,E,
+BFA,2025-03-01,2025-03-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7003,March,2025,2025,%,5.944745,E,
+BFA,2001-04-01,2001-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,6.925676,E,
+BFA,2002-04-01,2002-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,4.107425,E,
+BFA,2003-04-01,2003-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,-4.248862,E,
+BFA,2004-04-01,2004-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,-2.694136,E,
+BFA,2005-04-01,2005-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,14.657980,E,
+BFA,2006-04-01,2006-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,0.710227,E,
+BFA,2007-04-01,2007-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,-4.372355,E,
+BFA,2008-04-01,2008-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,18.938053,E,
+BFA,2009-04-01,2009-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,11.036706,E,
+BFA,2010-04-01,2010-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,0.949296,E,
+BFA,2011-04-01,2011-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,4.712911,E,
+BFA,2012-04-01,2012-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,4.775489,E,
+BFA,2013-04-01,2013-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,3.972976,E,
+BFA,2014-04-01,2014-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,-7.215595,E,
+BFA,2015-04-01,2015-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,4.954531,E,
+BFA,2016-04-01,2016-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,4.023504,E,
+BFA,2017-04-01,2017-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,-1.005266,E,
+BFA,2018-04-01,2018-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,5.125725,E,
+BFA,2019-04-01,2019-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,-5.308188,E,
+BFA,2020-04-01,2020-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,-0.514913,E,
+BFA,2021-04-01,2021-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,7.373047,E,
+BFA,2022-04-01,2022-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,25.657117,E,
+BFA,2023-04-01,2023-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,-1.353503,E,
+BFA,2024-04-01,2024-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,3.896104,E,
+BFA,2025-04-01,2025-04-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7004,April,2025,2025,%,5.713277,E,
+BFA,2001-05-01,2001-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,7.407407,E,
+BFA,2002-05-01,2002-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,2.848576,E,
+BFA,2003-05-01,2003-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,2.186589,E,
+BFA,2004-05-01,2004-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,-10.556348,E,
+BFA,2005-05-01,2005-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,18.341308,E,
+BFA,2006-05-01,2006-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,1.347709,E,
+BFA,2007-05-01,2007-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,-6.117021,E,
+BFA,2008-05-01,2008-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,25.736544,E,
+BFA,2009-05-01,2009-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,1.723555,E,
+BFA,2010-05-01,2010-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,2.469546,E,
+BFA,2011-05-01,2011-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,3.825786,E,
+BFA,2012-05-01,2012-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,6.443218,E,
+BFA,2013-05-01,2013-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,2.337180,E,
+BFA,2014-05-01,2014-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,-4.796942,E,
+BFA,2015-05-01,2015-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,2.188096,E,
+BFA,2016-05-01,2016-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,3.801198,E,
+BFA,2017-05-01,2017-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,-0.558289,E,
+BFA,2018-05-01,2018-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,4.434294,E,
+BFA,2019-05-01,2019-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,-4.965831,E,
+BFA,2020-05-01,2020-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,4.496644,E,
+BFA,2021-05-01,2021-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,4.211396,E,
+BFA,2022-05-01,2022-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,25.215707,E,
+BFA,2023-05-01,2023-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,-2.700042,E,
+BFA,2024-05-01,2024-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,4.516549,E,
+BFA,2025-05-01,2025-05-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7005,May,2025,2025,%,6.174446,E,
+BFA,2001-06-01,2001-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,8.620690,E,
+BFA,2002-06-01,2002-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,3.751804,E,
+BFA,2003-06-01,2003-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,4.311544,E,
+BFA,2004-06-01,2004-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,-13.466667,E,
+BFA,2005-06-01,2005-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,24.036980,E,
+BFA,2006-06-01,2006-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,-7.453416,E,
+BFA,2007-06-01,2007-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,-2.684564,E,
+BFA,2008-06-01,2008-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,30.193103,E,
+BFA,2009-06-01,2009-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,-4.343680,E,
+BFA,2010-06-01,2010-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,4.917488,E,
+BFA,2011-06-01,2011-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,4.877019,E,
+BFA,2012-06-01,2012-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,3.865123,E,
+BFA,2013-06-01,2013-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,3.808509,E,
+BFA,2014-06-01,2014-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,-4.975728,E,
+BFA,2015-06-01,2015-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,3.792121,E,
+BFA,2016-06-01,2016-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,1.249408,E,
+BFA,2017-06-01,2017-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,-0.401982,E,
+BFA,2018-06-01,2018-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,5.237469,E,
+BFA,2019-06-01,2019-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,-7.616839,E,
+BFA,2020-06-01,2020-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,3.543155,E,
+BFA,2021-06-01,2021-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,5.911422,E,
+BFA,2022-06-01,2022-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,28.902192,E,
+BFA,2023-06-01,2023-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,-3.578746,E,
+BFA,2024-06-01,2024-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,3.803655,E,
+BFA,2025-06-01,2025-06-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7006,June,2025,2025,%,5.254992,E,
+BFA,2001-07-01,2001-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,12.012987,E,
+BFA,2002-07-01,2002-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,2.608696,E,
+BFA,2003-07-01,2003-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,-2.966102,E,
+BFA,2004-07-01,2004-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,-5.385735,E,
+BFA,2005-07-01,2005-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,20.153846,E,
+BFA,2006-07-01,2006-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,-1.280410,E,
+BFA,2007-07-01,2007-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,-4.539559,E,
+BFA,2008-07-01,2008-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,29.157609,E,
+BFA,2009-07-01,2009-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,1.430675,E,
+BFA,2010-07-01,2010-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,-1.244555,E,
+BFA,2011-07-01,2011-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,5.198488,E,
+BFA,2012-07-01,2012-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,7.497255,E,
+BFA,2013-07-01,2013-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,-1.820208,E,
+BFA,2014-07-01,2014-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,-3.679531,E,
+BFA,2015-07-01,2015-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,4.075420,E,
+BFA,2016-07-01,2016-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,-0.311380,E,
+BFA,2017-07-01,2017-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,3.246569,E,
+BFA,2018-07-01,2018-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,4.702970,E,
+BFA,2019-07-01,2019-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,-8.326766,E,
+BFA,2020-07-01,2020-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,3.008596,E,
+BFA,2021-07-01,2021-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,0.315253,E,
+BFA,2022-07-01,2022-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,37.683705,E,
+BFA,2023-07-01,2023-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,-4.974490,E,
+BFA,2024-07-01,2024-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,7.954786,E,
+BFA,2025-07-01,2025-07-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7007,July,2025,2025,%,1.268337,E,
+BFA,2001-08-01,2001-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,16.417910,E,
+BFA,2002-08-01,2002-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,1.994302,E,
+BFA,2003-08-01,2003-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,-9.776536,E,
+BFA,2004-08-01,2004-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,-1.702786,E,
+BFA,2005-08-01,2005-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,25.354331,E,
+BFA,2006-08-01,2006-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,-5.778894,E,
+BFA,2007-08-01,2007-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,-3.333333,E,
+BFA,2008-08-01,2008-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,32.537931,E,
+BFA,2009-08-01,2009-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,0.197731,E,
+BFA,2010-08-01,2010-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,-0.571251,E,
+BFA,2011-08-01,2011-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,5.358822,E,
+BFA,2012-08-01,2012-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,6.057902,E,
+BFA,2013-08-01,2013-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,-3.374778,E,
+BFA,2014-08-01,2014-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,-1.654412,E,
+BFA,2015-08-01,2015-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,4.810625,E,
+BFA,2016-08-01,2016-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,-0.760278,E,
+BFA,2017-08-01,2017-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,2.203726,E,
+BFA,2018-08-01,2018-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,3.470294,E,
+BFA,2019-08-01,2019-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,-9.247831,E,
+BFA,2020-08-01,2020-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,6.622647,E,
+BFA,2021-08-01,2021-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,6.091136,E,
+BFA,2022-08-01,2022-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,29.778707,E,
+BFA,2023-08-01,2023-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,-5.947905,E,
+BFA,2024-08-01,2024-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,10.578158,E,
+BFA,2025-08-01,2025-08-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7008,August,2025,2025,%,-2.697344,E,
+BFA,2001-09-01,2001-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,13.275862,E,
+BFA,2002-09-01,2002-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,2.739726,E,
+BFA,2003-09-01,2003-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,-3.703704,E,
+BFA,2004-09-01,2004-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,-3.384615,E,
+BFA,2005-09-01,2005-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,16.560510,E,
+BFA,2006-09-01,2006-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,-2.049180,E,
+BFA,2007-09-01,2007-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,2.649930,E,
+BFA,2008-09-01,2008-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,29.687500,E,
+BFA,2009-09-01,2009-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,-2.545836,E,
+BFA,2010-09-01,2010-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,1.333047,E,
+BFA,2011-09-01,2011-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,5.654572,E,
+BFA,2012-09-01,2012-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,9.790140,E,
+BFA,2013-09-01,2013-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,-5.075910,E,
+BFA,2014-09-01,2014-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,-2.321996,E,
+BFA,2015-09-01,2015-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,3.067666,E,
+BFA,2016-09-01,2016-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,4.230070,E,
+BFA,2017-09-01,2017-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,0.440731,E,
+BFA,2018-09-01,2018-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,2.093427,E,
+BFA,2019-09-01,2019-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,-9.822708,E,
+BFA,2020-09-01,2020-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,8.102472,E,
+BFA,2021-09-01,2021-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,8.560669,E,
+BFA,2022-09-01,2022-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,26.381251,E,
+BFA,2023-09-01,2023-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,-6.279708,E,
+BFA,2024-09-01,2024-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,10.586470,E,
+BFA,2025-09-01,2025-09-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7009,September,2025,2025,%,-4.680957,E,
+BFA,2001-10-01,2001-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,12.541806,E,
+BFA,2002-10-01,2002-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,-1.337296,E,
+BFA,2003-10-01,2003-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,-2.861446,E,
+BFA,2004-10-01,2004-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,3.410853,E,
+BFA,2005-10-01,2005-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,18.440780,E,
+BFA,2006-10-01,2006-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,-9.113924,E,
+BFA,2007-10-01,2007-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,5.292479,E,
+BFA,2008-10-01,2008-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,24.351852,E,
+BFA,2009-10-01,2009-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,-0.212743,E,
+BFA,2010-10-01,2010-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,0.351775,E,
+BFA,2011-10-01,2011-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,8.434247,E,
+BFA,2012-10-01,2012-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,6.014890,E,
+BFA,2013-10-01,2013-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,-5.340972,E,
+BFA,2014-10-01,2014-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,-2.469738,E,
+BFA,2015-10-01,2015-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,5.895306,E,
+BFA,2016-10-01,2016-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,-1.247637,E,
+BFA,2017-10-01,2017-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,2.383231,E,
+BFA,2018-10-01,2018-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,2.739086,E,
+BFA,2019-10-01,2019-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,-8.298453,E,
+BFA,2020-10-01,2020-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,8.543362,E,
+BFA,2021-10-01,2021-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,8.355426,E,
+BFA,2022-10-01,2022-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,23.681768,E,
+BFA,2023-10-01,2023-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,-4.556617,E,
+BFA,2024-10-01,2024-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,10.763293,E,
+BFA,2025-10-01,2025-10-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7010,October,2025,2025,%,-4.975380,E,
+BFA,2001-11-01,2001-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,10.942761,E,
+BFA,2002-11-01,2002-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,1.820941,E,
+BFA,2003-11-01,2003-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,-0.149031,E,
+BFA,2004-11-01,2004-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,-0.597015,E,
+BFA,2005-11-01,2005-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,10.210210,E,
+BFA,2006-11-01,2006-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,-1.771117,E,
+BFA,2007-11-01,2007-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,7.628294,E,
+BFA,2008-11-01,2008-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,17.538660,E,
+BFA,2009-11-01,2009-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,-0.010964,E,
+BFA,2010-11-01,2010-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,1.951754,E,
+BFA,2011-11-01,2011-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,9.571951,E,
+BFA,2012-11-01,2012-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,6.380055,E,
+BFA,2013-11-01,2013-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,-4.973242,E,
+BFA,2014-11-01,2014-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,-2.466259,E,
+BFA,2015-11-01,2015-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,4.250871,E,
+BFA,2016-11-01,2016-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,0.000000,E,
+BFA,2017-11-01,2017-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,2.969824,E,
+BFA,2018-11-01,2018-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,-1.094315,E,
+BFA,2019-11-01,2019-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,-6.047820,E,
+BFA,2020-11-01,2020-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,8.692615,E,
+BFA,2021-11-01,2021-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,10.246993,E,
+BFA,2022-11-01,2022-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,19.596902,E,
+BFA,2023-11-01,2023-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,-2.019499,E,
+BFA,2024-11-01,2024-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,6.695096,E,
+BFA,2025-11-01,2025-11-30,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7011,November,2025,2025,%,-1.522386,E,
+BFA,2001-12-01,2001-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,2.809917,E,
+BFA,2002-12-01,2002-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,5.144695,E,
+BFA,2003-12-01,2003-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,0.917431,E,
+BFA,2004-12-01,2004-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,-1.515152,E,
+BFA,2005-12-01,2005-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,8.615385,E,
+BFA,2006-12-01,2006-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,1.274788,E,
+BFA,2007-12-01,2007-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,2.377622,E,
+BFA,2008-12-01,2008-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,22.021858,E,
+BFA,2009-12-01,2009-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,1.007613,E,
+BFA,2010-12-01,2010-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,3.679894,E,
+BFA,2011-12-01,2011-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,9.664315,E,
+BFA,2012-12-01,2012-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,1.579255,E,
+BFA,2013-12-01,2013-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,-2.744722,E,
+BFA,2014-12-01,2014-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,-2.042629,E,
+BFA,2015-12-01,2015-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,4.492797,E,
+BFA,2016-12-01,2016-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,-3.065651,E,
+BFA,2017-12-01,2017-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,6.176032,E,
+BFA,2018-12-01,2018-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,-0.458973,E,
+BFA,2019-12-01,2019-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,-5.316646,E,
+BFA,2020-12-01,2020-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,5.396541,E,
+BFA,2021-12-01,2021-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,14.276285,E,
+BFA,2022-12-01,2022-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,14.679429,E,
+BFA,2023-12-01,2023-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,-1.057706,E,
+BFA,2024-12-01,2024-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,8.857538,E,
+BFA,2025-12-01,2025-12-31,233,'854,Burkina Faso,23014,Food price inflation,6121,Value,7012,December,2025,2025,%,-2.144624,E,

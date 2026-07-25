@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    admin:
+      name: Administrateur
+      password: '$2b$12$/zzjfHp1rlc.KoYbKCLwTe451auZo.oOkeoAXCXFopF7WzcM5.yNC'
+      role: admin
+    analyste:
+      name: Analyste
+      password: '$2b$12$3iSI/1Ic8PRD7Wsn9ZxAau/B6TIr1AoKdnc2IUIE92YgUZp29iGwO'
+      role: analyste
+    decideur:
+      name: Décideur
+      password: '$2b$12$Y.jOMh8xrViIWKCubzx9p.GhOQuoIlwjTQJXduUndSDjJpxAPKplS'
+      role: decideur
+cookie:
+  expiry_days: 30
+  key: some_random_key
+  name: some_cookie_name

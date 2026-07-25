@@ -1,0 +1,7 @@
+venv/
+Venv312/
+_pycache_/
+*.pyc
+.env
+data/raw/
+reports/
