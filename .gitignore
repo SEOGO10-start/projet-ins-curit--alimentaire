@@ -1,7 +1,8 @@
 venv/
 Venv312/
-_pycache_/
+__pycache__/
 *.pyc
 .env
+.streamlit/secrets.toml
 data/raw/
 reports/

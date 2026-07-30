@@ -1,17 +1,38 @@
 # models/database.py
 from pymongo import MongoClient
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import bcrypt
+import secrets
 from bson import ObjectId
 import streamlit as st
 import os
+from dotenv import load_dotenv
+
+load_dotenv()  # charge un éventuel fichier .env local (ignoré par git)
 
 # ==============================
 # CONFIGURATION MONGODB
 # ==============================
-MONGO_URI = "mongodb+srv://moussaseogo74_db_user:Mdp2025@ac-aktcpeq.6aedabw.mongodb.net/"
-DATABASE_NAME = "insecurite_alimentaire"
+# ⚠️ NE JAMAIS remettre l'URI en dur ici.
+# Ordre de résolution : variable d'environnement > st.secrets > erreur explicite.
+def _get_config(key, default=None, required=False):
+    value = os.environ.get(key)
+    if value is None:
+        try:
+            value = st.secrets[key]
+        except Exception:
+            value = default
+    if required and not value:
+        raise RuntimeError(
+            f"Configuration manquante : '{key}'. "
+            f"Définissez-la dans un fichier .env (voir .env.example) "
+            f"ou dans .streamlit/secrets.toml (non commité)."
+        )
+    return value
+
+MONGO_URI = _get_config("MONGO_URI", required=True)
+DATABASE_NAME = _get_config("DATABASE_NAME", default="insecurite_alimentaire")
 
 # ==============================
 # FONCTIONS DE COMPATIBILITÉ (pour app.py)
@@ -66,7 +87,6 @@ class DatabaseManager:
         """Initialise la connexion à MongoDB."""
         try:
             self.client = MongoClient(MONGO_URI)
-            print(f"🔍 MONGO_URI (début) : {MONGO_URI[:30]}...")  
             self.db = self.client[DATABASE_NAME]
             # Tester la connexion
             self.client.admin.command('ping')
@@ -169,9 +189,7 @@ class DatabaseManager:
             
             # Verrouiller le compte après 5 tentatives échouées
             if failed_attempts >= 5:
-                update_data["locked_until"] = datetime.now().replace(
-                    hour=datetime.now().hour + 1
-                )  # Verrouillé pour 1 heure
+                update_data["locked_until"] = datetime.now() + timedelta(hours=1)
             
             collection.update_one({"_id": user["_id"]}, {"$set": update_data})
             return None
@@ -447,119 +465,84 @@ db_manager = DatabaseManager()
 # CRÉER UN ADMIN AUTOMATIQUEMENT
 # ==============================
 
+def _make_user_doc(username, password, name, role, email):
+    hashed = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
+    return {
+        "username": username,
+        "password": hashed.decode('utf-8'),
+        "name": name,
+        "role": role,
+        "email": email,
+        "created_at": datetime.now(),
+        "last_login": None,
+        "is_active": True,
+        "failed_attempts": 0,
+        "locked_until": None
+    }
+
+
 def ensure_admin_exists():
     """
     Fonction de secours qui crée automatiquement un compte admin
     si aucun n'existe dans la base de données.
+
+    Les mots de passe ne sont JAMAIS des valeurs devinables en dur :
+    - le compte admin utilise ADMIN_PASSWORD (variable d'environnement / st.secrets)
+      s'il est défini, sinon un mot de passe aléatoire est généré et affiché
+      UNE SEULE FOIS dans les logs (à noter immédiatement puis à changer).
+    - les autres comptes de démonstration reçoivent chacun un mot de passe
+      aléatoire distinct, également affiché une seule fois.
     """
     try:
         client = MongoClient(MONGO_URI)
         db = client[DATABASE_NAME]
-        
+
         # S'assurer que la collection existe
         if "utilisateurs" not in db.list_collection_names():
             db.create_collection("utilisateurs")
             print("✅ Collection 'utilisateurs' créée")
-        
+
         users = db["utilisateurs"]
-        
+
+        admin_password = _get_config("ADMIN_PASSWORD") or secrets.token_urlsafe(12)
+
         # Vérifier si des utilisateurs existent
         if users.count_documents({}) == 0:
             print("🔧 Aucun utilisateur trouvé - Création automatique...")
-            
-            # Créer admin
-            hashed = bcrypt.hashpw("admin".encode('utf-8'), bcrypt.gensalt())
-            admin_doc = {
-                "username": "admin",
-                "password": hashed.decode('utf-8'),
-                "name": "Administrateur",
-                "role": "super_admin",
-                "email": "admin@insecurite-alimentaire.com",
-                "created_at": datetime.now(),
-                "last_login": None,
-                "is_active": True,
-                "failed_attempts": 0,
-                "locked_until": None
+
+            generated = {
+                "admin": (admin_password, "Administrateur", "super_admin",
+                          "admin@insecurite-alimentaire.com"),
+                "user": (secrets.token_urlsafe(12), "Utilisateur Standard", "utilisateur",
+                         "user@insecurite-alimentaire.com"),
+                "analyste": (secrets.token_urlsafe(12), "Analyste", "analyste",
+                             "analyste@insecurite-alimentaire.com"),
+                "decideur": (secrets.token_urlsafe(12), "Décideur", "decideur",
+                             "decideur@insecurite-alimentaire.com"),
             }
-            users.insert_one(admin_doc)
-            
-            # Créer utilisateur standard
-            hashed_user = bcrypt.hashpw("user".encode('utf-8'), bcrypt.gensalt())
-            user_doc = {
-                "username": "user",
-                "password": hashed_user.decode('utf-8'),
-                "name": "Utilisateur Standard",
-                "role": "utilisateur",
-                "email": "user@insecurite-alimentaire.com",
-                "created_at": datetime.now(),
-                "last_login": None,
-                "is_active": True,
-                "failed_attempts": 0,
-                "locked_until": None
-            }
-            users.insert_one(user_doc)
-            
-            # Créer analyste
-            hashed_analyste = bcrypt.hashpw("analyste".encode('utf-8'), bcrypt.gensalt())
-            analyste_doc = {
-                "username": "analyste",
-                "password": hashed_analyste.decode('utf-8'),
-                "name": "Analyste",
-                "role": "analyste",
-                "email": "analyste@insecurite-alimentaire.com",
-                "created_at": datetime.now(),
-                "last_login": None,
-                "is_active": True,
-                "failed_attempts": 0,
-                "locked_until": None
-            }
-            users.insert_one(analyste_doc)
-            
-            # Créer decideur
-            hashed_decideur = bcrypt.hashpw("decideur".encode('utf-8'), bcrypt.gensalt())
-            decideur_doc = {
-                "username": "decideur",
-                "password": hashed_decideur.decode('utf-8'),
-                "name": "Décideur",
-                "role": "decideur",
-                "email": "decideur@insecurite-alimentaire.com",
-                "created_at": datetime.now(),
-                "last_login": None,
-                "is_active": True,
-                "failed_attempts": 0,
-                "locked_until": None
-            }
-            users.insert_one(decideur_doc)
-            
+
+            for username, (pwd, name, role, email) in generated.items():
+                users.insert_one(_make_user_doc(username, pwd, name, role, email))
+
             print("\n" + "=" * 50)
             print("✅ UTILISATEURS CRÉÉS AUTOMATIQUEMENT !")
             print("=" * 50)
-            print("🔑 IDENTIFIANTS DE CONNEXION:")
-            print("   👤 admin / admin (super_admin)")
-            print("   👤 user / user (utilisateur)")
-            print("   👤 analyste / analyste (analyste)")
-            print("   👤 decideur / decideur (decideur)")
+            print("🔑 IDENTIFIANTS GÉNÉRÉS (à noter maintenant, non ré-affichés) :")
+            for username, (pwd, _, role, _) in generated.items():
+                print(f"   👤 {username} / {pwd}  ({role})")
             print("=" * 50)
+            print("⚠️  Changez ces mots de passe dès la première connexion.")
             return True
-            
+
         # Si des utilisateurs existent mais pas admin
         elif not users.find_one({"username": "admin"}):
             print("🔧 Admin manquant - Création automatique...")
-            hashed = bcrypt.hashpw("admin".encode('utf-8'), bcrypt.gensalt())
-            admin_doc = {
-                "username": "admin",
-                "password": hashed.decode('utf-8'),
-                "name": "Administrateur",
-                "role": "super_admin",
-                "email": "admin@insecurite-alimentaire.com",
-                "created_at": datetime.now(),
-                "last_login": None,
-                "is_active": True,
-                "failed_attempts": 0,
-                "locked_until": None
-            }
-            users.insert_one(admin_doc)
-            print("✅ Admin créé avec succès! (admin/admin)")
+            users.insert_one(_make_user_doc(
+                "admin", admin_password, "Administrateur", "super_admin",
+                "admin@insecurite-alimentaire.com"
+            ))
+            print(f"✅ Admin créé avec succès ! Mot de passe généré : {admin_password}")
+            print("⚠️  Notez-le maintenant, il ne sera pas ré-affiché.")
             return True
             
         return False
